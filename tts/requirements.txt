@@ -1,0 +1,31 @@
+# 🔮 Core AI & TTS
+transformers
+torch
+torchaudio
+soundfile
+datasets
+openai
+python-dotenv
+
+# Whisper from GitHub
+git+https://github.com/openai/whisper.git
+
+# 📊 Numerical & Signal Processing
+scipy
+numpy
+matplotlib
+
+# 🔊 Audio Playback & Manipulation
+pydub
+simpleaudio
+sounddevice
+
+# 🌐 Web API
+fastapi
+uvicorn
+
+# 🌍 Language Detection
+langdetect
+
+# 📦 File Uploads & Typing
+python-multipart
